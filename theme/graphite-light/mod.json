@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "package_type": "component",
+  "component": {
+    "id": "graphite-light",
+    "name": "Graphite Light",
+    "version": "0.6.0",
+    "author": "mRadziwanowski",
+    "description": "Light grey panels, dark displays, amber accent. Colours only; pair it with the Graphite Light mods for widgets, contrast and device panels.",
+    "parent": "bte-theme-loader",
+    "group": "themes",
+    "interface_version": "1",
+    "documentation": "readme"
+  },
+  "resources": {
+    "theme": {
+      "kind": "file",
+      "path": "resources/graphite-light.bte"
+    },
+    "readme": {
+      "kind": "file",
+      "path": "README.md",
+      "media_type": "text/markdown"
+    }
+  }
+}

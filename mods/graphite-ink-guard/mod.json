@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "mod": {
+    "id": "graphite-ink-guard",
+    "name": "Graphite Light: Surface-Aware Ink Guard",
+    "version": "0.6.0",
+    "author": "mRadziwanowski",
+    "description": "Keeps text and icons readable: when ink falls below 4.7:1 contrast against what is actually painted under it (3:1 for faint text and icons), only its lightness is adjusted."
+  },
+  "built_against": {
+    "bitwig_version": "6.1.4",
+    "platform": "macos",
+    "architecture": "universal"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "mod": {
+    "id": "graphite-devices",
+    "name": "Graphite Light: Device Panel Styles",
+    "version": "0.6.0",
+    "author": "mRadziwanowski",
+    "description": "Applies light panel and control styles to Bitwig's 152 built-in devices in memory as they load, without changing Bitwig's files."
+  },
+  "built_against": {
+    "bitwig_version": "6.1.4",
+    "platform": "macos",
+    "architecture": "universal"
+  },
+  "resources": {
+    "device_edits": {
+      "kind": "file",
+      "path": "device-edits.tsv"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "mod": {
+    "id": "graphite-widgets",
+    "name": "Graphite Light: Widgets, Layout & Indicators",
+    "version": "0.6.0",
+    "author": "mRadziwanowski",
+    "description": "Flat knobs with cyan value arcs, flat device headers and buttons, browser on the left, transport on grey, neutral scene rows, readable icons on light and dark surfaces, cyan traces on dark displays, amber/grey device lamps, EQ+ bypass curve and Inspector enable indicators."
+  },
+  "built_against": {
+    "bitwig_version": "6.1.4",
+    "platform": "macos",
+    "architecture": "universal"
+  }
+}
