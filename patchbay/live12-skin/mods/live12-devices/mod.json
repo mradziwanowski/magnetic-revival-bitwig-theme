@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "mod": {
+    "id": "live12-devices",
+    "name": "Live 12 Skin: Device Panel Styles",
+    "version": "0.1.0",
+    "author": "mRadziwanowski",
+    "description": "Applies Live 12 light panel colour and style scalar edits to Bitwig's 152 built-in .bwdevice documents in memory at load time, without modifying Bitwig's files on disk."
+  },
+  "built_against": {
+    "bitwig_version": "6.1.4",
+    "platform": "macos",
+    "architecture": "universal"
+  },
+  "resources": {
+    "device_edits": { "kind": "file", "path": "device-edits.tsv" }
+  }
+}

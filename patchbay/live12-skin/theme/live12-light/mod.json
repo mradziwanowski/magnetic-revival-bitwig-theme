@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "package_type": "component",
+  "component": {
+    "id": "live-12-light",
+    "name": "Live 12 Light",
+    "version": "0.5.1",
+    "author": "mRadziwanowski",
+    "description": "Light grey palette in the style of Ableton Live 12 for Bitwig Studio. Colours only; pair it with the Live 12 Skin mods for widgets, contrast and device panels.",
+    "parent": "bte-theme-loader",
+    "group": "themes",
+    "interface_version": "1",
+    "documentation": "readme"
+  },
+  "resources": {
+    "theme": { "kind": "file", "path": "resources/live12-light.bte" },
+    "readme": { "kind": "file", "path": "README.md", "media_type": "text/markdown" }
+  }
+}

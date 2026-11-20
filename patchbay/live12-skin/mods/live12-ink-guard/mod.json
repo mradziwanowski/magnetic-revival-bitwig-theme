@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "mod": {
+    "id": "live12-ink-guard",
+    "name": "Live 12 Skin: Surface-Aware Ink Guard",
+    "version": "0.1.1",
+    "author": "mRadziwanowski",
+    "description": "Tracks painted surfaces in Bitwig's render command recorder and adjusts text and icon ink lightness (keeping hue) whenever contrast falls below WCAG targets."
+  },
+  "built_against": {
+    "bitwig_version": "6.1.4",
+    "platform": "macos",
+    "architecture": "universal"
+  }
+}

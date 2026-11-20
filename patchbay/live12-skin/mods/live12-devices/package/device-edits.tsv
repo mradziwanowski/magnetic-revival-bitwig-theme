@@ -1,0 +1,1170 @@
+Amp.bwdevice	/6213/0/6212/6221/0/6221/8/6520	Byte:8	Byte:7
+Amp.bwdevice	/6213/0/6212/6221/0/6221/9/6520	Byte:8	Byte:7
+Amp.bwdevice	/6213/0/6212/6221/0/6221/10/6520	Byte:8	Byte:7
+Amp.bwdevice	/6213/0/6212/6221/1/6221/8/6520	Byte:8	Byte:7
+Amp.bwdevice	/6213/0/6212/6221/1/6221/13/6520	Byte:8	Byte:7
+Amp.bwdevice	/6213/0/6212/6221/4/6221/2/6520	Byte:8	Byte:6
+Amp.bwdevice	/6213/0/6212/6221/4/6221/6/6520	Byte:8	Byte:6
+Amp.bwdevice	/6213/0/6212/6221/4/6221/7/6520	Byte:8	Byte:6
+Amp.bwdevice	/6213/0/6212/6221/7/6221/8/6520	Byte:8	Byte:7
+Amp.bwdevice	/6213/0/6212/6221/7/6221/9/6520	Byte:8	Byte:7
+Amp.bwdevice	/6213/0/6212/6221/7/6221/10/6520	Byte:8	Byte:7
+Amp.bwdevice	/6213/0/6212/6221/8/6221/2/6520	Byte:8	Byte:7
+Amp.bwdevice	/6213/0/6212/6221/8/6221/3/6520	Byte:8	Byte:7
+Amp.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Amp.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Arpeggiator.bwdevice	/6213/0/6212/6221/1/6221/24/6520	Byte:6	Byte:7
+Arpeggiator.bwdevice	/6213/0/6212/6221/1/6228	Byte:0	Byte:1
+Arpeggiator.bwdevice	/6213/0/6212/6245	Byte:3	Byte:5
+Arpeggiator.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+Arpeggiator.bwdevice	/6213/1/6212/6221/8/6520	Byte:6	Byte:7
+Arpeggiator.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Arpeggiator.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Arpeggiator.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+Audio MOD.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Audio MOD.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Audio Receiver.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+Audio Receiver.bwdevice	/6213/0/6212/6221/0/6221/3/6520	Byte:8	Byte:7
+Audio Receiver.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Audio Receiver.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Bend.bwdevice	/6213/0/6212/6221/1/6520	Byte:6	Byte:7
+Bend.bwdevice	/6213/0/6212/6221/2/6520	Byte:8	Byte:7
+Bend.bwdevice	/6213/0/6212/6221/5/6221/0/6520	Byte:6	Byte:7
+Bend.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Bend.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Bit-8.bwdevice	/6213/0/6212/6221/0/6221/2/6520	Byte:8	Byte:7
+Bit-8.bwdevice	/6213/0/6212/6221/0/6221/3/6520	Byte:8	Byte:7
+Bit-8.bwdevice	/6213/0/6212/6221/0/6221/5/6520	Byte:8	Byte:7
+Bit-8.bwdevice	/6213/0/6212/6221/1/6221/0/6520	Byte:8	Byte:7
+Bit-8.bwdevice	/6213/0/6212/6221/1/6221/1/6520	Byte:8	Byte:7
+Bit-8.bwdevice	/6213/0/6212/6221/1/6221/2/6520	Byte:8	Byte:7
+Bit-8.bwdevice	/6213/0/6212/6221/5/6221/2/6520	Byte:8	Byte:7
+Bit-8.bwdevice	/6213/0/6212/6221/6/6221/1/6520	Byte:8	Byte:7
+Bit-8.bwdevice	/6213/0/6212/6221/6/6522	Byte:6	Byte:7
+Bit-8.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Bit-8.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Blur.bwdevice	/6213/0/6212/6221/4/6520	Byte:6	Byte:7
+Blur.bwdevice	/6213/0/6212/6221/11/6520	Byte:6	Byte:7
+Blur.bwdevice	/6213/0/6212/6221/13/6520	Byte:6	Byte:7
+Blur.bwdevice	/6213/0/6212/6221/18/6228	Byte:0	Byte:1
+Blur.bwdevice	/6213/0/6212/6245	Byte:3	Byte:5
+Chain.bwdevice	/6213/0/6212/6221/1/6221/7/6520	Byte:8	Byte:7
+Chain.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Chain.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Channel Filter.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Channel Filter.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Channel Map.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Channel Map.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Chorus+.bwdevice	/6213/0/6212/6221/2/6520	Byte:8	Byte:7
+Chorus+.bwdevice	/6213/0/6212/6221/4/6520	Byte:8	Byte:7
+Chorus+.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Chorus.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+Chorus.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Chorus.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Comb.bwdevice	/6213/0/6212/6221/1/6221/0/6228	Byte:0	Byte:1
+Comb.bwdevice	/6213/0/6212/6221/1/6228	Byte:0	Byte:1
+Comb.bwdevice	/6213/0/6212/6245	Byte:3	Byte:5
+Compressor+.bwdevice	/6213/0/6212/6221/0/6221/1/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/0/6212/6221/1/6221/2/6221/0/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/0/6212/6221/1/6221/2/6221/1/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/0/6212/6221/1/6221/2/6221/2/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/0/6212/6221/1/6221/8/6221/2/6520	Byte:8	Byte:6
+Compressor+.bwdevice	/6213/0/6212/6221/1/6221/9/6520	Byte:8	Byte:6
+Compressor+.bwdevice	/6213/0/6212/6221/2/6221/3/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/0/6212/6221/2/6221/13/6520	Byte:8	Byte:6
+Compressor+.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Compressor+.bwdevice	/6213/1/6212/6221/0/6221/0/6520	Byte:6	Byte:7
+Compressor+.bwdevice	/6213/1/6212/6221/1/6221/0/6520	Byte:6	Byte:7
+Compressor+.bwdevice	/6213/1/6212/6221/1/6221/1/6520	Byte:8	Byte:7
+Compressor+.bwdevice	/6213/1/6212/6221/1/6221/3/6520	Byte:8	Byte:7
+Compressor+.bwdevice	/6213/1/6212/6221/2/6221/0/6520	Byte:6	Byte:7
+Compressor+.bwdevice	/6213/1/6212/6221/2/6221/1/6520	Byte:8	Byte:7
+Compressor+.bwdevice	/6213/1/6212/6221/2/6221/2/6520	Byte:8	Byte:7
+Compressor+.bwdevice	/6213/1/6212/6221/2/6221/3/6520	Byte:8	Byte:7
+Compressor+.bwdevice	/6213/1/6212/6221/2/6221/6/6520	Byte:8	Byte:7
+Compressor+.bwdevice	/6213/1/6212/6221/2/6221/9/6520	Byte:8	Byte:7
+Compressor+.bwdevice	/6213/1/6212/6221/2/6221/12/6520	Byte:8	Byte:7
+Compressor+.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Compressor+.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+Compressor+.bwdevice	/6213/3/6212/6221/0/6221/2/6221/0/6221/2/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/3/6212/6221/0/6221/2/6221/0/6221/3/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/3/6212/6221/0/6221/2/6221/0/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/3/6212/6221/0/6221/5/6221/0/6221/2/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/3/6212/6221/0/6221/5/6221/0/6221/3/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/3/6212/6221/0/6221/5/6221/0/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/3/6212/6221/0/6221/8/6221/0/6221/2/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/3/6212/6221/0/6221/8/6221/0/6221/3/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/3/6212/6221/0/6221/8/6221/0/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/3/6212/6221/0/6221/11/6221/0/6221/2/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/3/6212/6221/0/6221/11/6221/0/6221/3/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/3/6212/6221/0/6221/11/6221/0/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/3/6212/6228	Byte:0	Byte:1
+Compressor+.bwdevice	/6213/3/6212/6245	Byte:1	Byte:5
+Compressor.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Compressor.bwdevice	/6213/0/6212/6221/1/6226/6215	Byte:26	Byte:2
+Compressor.bwdevice	/6213/0/6212/6221/1/6226/6216	Byte:40	Byte:8
+Compressor.bwdevice	/6213/0/6212/6221/2/6226/6215	Byte:37	Byte:15
+Compressor.bwdevice	/6213/0/6212/6221/2/6226/6216	Byte:40	Byte:8
+Compressor.bwdevice	/6213/0/6212/6221/3/6226/6215	Byte:15	Byte:2
+Compressor.bwdevice	/6213/0/6212/6221/3/6226/6216	Byte:40	Byte:25
+Compressor.bwdevice	/6213/0/6212/6221/4/6226/6215	Byte:48	Byte:15
+Compressor.bwdevice	/6213/0/6212/6221/4/6226/6216	Byte:40	Byte:25
+Compressor.bwdevice	/6213/0/6212/6221/5/6226/6215	Byte:61	Byte:105
+Compressor.bwdevice	/6213/0/6212/6221/5/6226/6216	Byte:38	Byte:25
+Compressor.bwdevice	/6213/0/6212/6221/6/6226/6215	Byte:60	Byte:105
+Compressor.bwdevice	/6213/0/6212/6221/6/6226/6216	Byte:1	Byte:41
+Compressor.bwdevice	/6213/0/6212/6221/7/6226/6215	Byte:0	Byte:30
+Compressor.bwdevice	/6213/0/6212/6221/7/6221/0/6221/12/6228	Byte:0	Byte:1
+Compressor.bwdevice	/6213/0/6212/6221/7/6221/0/6228	Byte:0	Byte:1
+Compressor.bwdevice	/6213/0/6212/6221/7/6221/0/6245	Byte:1	Byte:3
+Compressor.bwdevice	/6213/0/6212/6221/7/6228	Byte:0	Byte:1
+Compressor.bwdevice	/6213/0/6212/6221/8/6226/6215	Byte:47	Byte:77
+Compressor.bwdevice	/6213/0/6212/6221/8/6520	Byte:4	Byte:7
+Compressor.bwdevice	/6213/0/6212/6221/9/6226/6215	Byte:2	Byte:105
+Compressor.bwdevice	/6213/0/6212/6221/9/6226/6216	Byte:38	Byte:8
+Compressor.bwdevice	/6213/0/6212/6245	Byte:3	Byte:5
+Compressor.bwdevice	/6213/0/6232	Byte:74	Byte:120
+Compressor.bwdevice	/6213/1/6212/6221/0/6221/0/6228	Byte:0	Byte:1
+Compressor.bwdevice	/6213/1/6212/6221/0/6221/0/6245	Byte:1	Byte:3
+Compressor.bwdevice	/6213/1/6212/6221/0/6228	Byte:0	Byte:1
+Compressor.bwdevice	/6213/1/6212/6221/1/6520	Byte:4	Byte:7
+Compressor.bwdevice	/6213/1/6212/6245	Byte:3	Byte:5
+Compressor.bwdevice	/6213/2/6212/6221/1/6221/0/6228	Byte:0	Byte:1
+Compressor.bwdevice	/6213/2/6212/6221/1/6221/0/6245	Byte:1	Byte:3
+Compressor.bwdevice	/6213/2/6212/6221/1/6228	Byte:0	Byte:1
+Compressor.bwdevice	/6213/2/6212/6221/2/6520	Byte:4	Byte:7
+Compressor.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Compressor.bwdevice	/6213/2/6212/6245	Byte:3	Byte:5
+Compressor.bwdevice	/6213/3/6212/6228	Byte:0	Byte:1
+Compressor.bwdevice	/6213/3/6212/6245	Byte:1	Byte:5
+Convolution.bwdevice	/6213/0/6212/6221/2/6221/1/6221/4/6520	Byte:8	Byte:6
+Convolution.bwdevice	/6213/0/6212/6221/2/6221/1/6221/5/6520	Byte:8	Byte:6
+Convolution.bwdevice	/6213/0/6212/6221/2/6221/2/6221/0/6228	Byte:0	Byte:1
+Convolution.bwdevice	/6213/0/6212/6221/2/6221/2/6228	Byte:0	Byte:1
+Convolution.bwdevice	/6213/0/6212/6221/2/6221/3/6221/2/6228	Byte:0	Byte:1
+Convolution.bwdevice	/6213/0/6212/6221/2/6221/3/6228	Byte:0	Byte:1
+Convolution.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Convolution.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Convolution.bwdevice	/6213/1/6212/6221/0/6520	Byte:8	Byte:6
+Convolution.bwdevice	/6213/1/6212/6221/1/6520	Byte:8	Byte:6
+Convolution.bwdevice	/6213/1/6212/6221/8/6520	Byte:13	Byte:6
+Convolution.bwdevice	/6213/1/6212/6221/9/6520	Byte:13	Byte:6
+Convolution.bwdevice	/6213/1/6212/6221/10/6520	Byte:13	Byte:6
+Convolution.bwdevice	/6213/1/6212/6221/11/6520	Byte:13	Byte:6
+Convolution.bwdevice	/6213/1/6212/6221/12/6520	Byte:13	Byte:6
+DC Offset.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+DC Offset.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+De-Esser.bwdevice	/6213/0/6212/6221/0/6221/3/6228	Byte:0	Byte:1
+De-Esser.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+De-Esser.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+De-Esser.bwdevice	/6213/1/6212/6221/0/6228	Byte:0	Byte:1
+De-Esser.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+De-Esser.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Delay+.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:6
+Delay+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/0/6221/0/6221/0/6521	Byte:13	Byte:6
+Delay+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/1/6221/0/6221/0/6521	Byte:13	Byte:6
+Delay+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/2/6221/0/6221/0/6521	Byte:13	Byte:6
+Delay+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/3/6221/0/6521	Byte:13	Byte:6
+Delay+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/3/6221/1/6521	Byte:13	Byte:6
+Delay+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/3/6221/2/6521	Byte:13	Byte:6
+Delay+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/3/6221/5/6521	Byte:13	Byte:6
+Delay+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/3/6221/7/6521	Byte:13	Byte:6
+Delay+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/3/6221/8/6521	Byte:13	Byte:6
+Delay+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/3/6221/12/6521	Byte:13	Byte:6
+Delay+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/3/6221/13/6521	Byte:13	Byte:6
+Delay+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/3/6221/14/6521	Byte:13	Byte:6
+Delay+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/5/6520	Byte:13	Byte:6
+Delay+.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Delay+.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Delay+.bwdevice	/6213/1/6212/6221/0/6520	Byte:8	Byte:7
+Delay+.bwdevice	/6213/1/6212/6221/1/6520	Byte:8	Byte:7
+Delay+.bwdevice	/6213/1/6212/6221/2/6520	Byte:8	Byte:7
+Delay+.bwdevice	/6213/1/6212/6221/3/6520	Byte:8	Byte:7
+Delay+.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Delay-1.bwdevice	/6213/0/6212/6221/0/6522	Byte:6	Byte:7
+Delay-1.bwdevice	/6213/0/6212/6221/3/6522	Byte:6	Byte:7
+Delay-1.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Delay-1.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Delay-2.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:6	Byte:7
+Delay-2.bwdevice	/6213/0/6212/6221/0/6221/2/6266	Byte:4	Byte:0
+Delay-2.bwdevice	/6213/0/6212/6221/0/6522	Byte:6	Byte:7
+Delay-2.bwdevice	/6213/0/6212/6221/1/6221/0/6520	Byte:6	Byte:7
+Delay-2.bwdevice	/6213/0/6212/6221/1/6221/2/6266	Byte:4	Byte:0
+Delay-2.bwdevice	/6213/0/6212/6221/1/6221/7/6520	Byte:6	Byte:7
+Delay-2.bwdevice	/6213/0/6212/6221/1/6522	Byte:6	Byte:7
+Delay-2.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Delay-2.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Delay-4.bwdevice	/6213/0/6212/6221/0/6221/12/6520	Byte:6	Byte:7
+Delay-4.bwdevice	/6213/0/6212/6221/0/6522	Byte:6	Byte:7
+Delay-4.bwdevice	/6213/0/6212/6221/1/6221/4/6520	Byte:6	Byte:7
+Delay-4.bwdevice	/6213/0/6212/6221/2/6522	Byte:6	Byte:7
+Delay-4.bwdevice	/6213/0/6212/6221/3/6522	Byte:6	Byte:7
+Delay-4.bwdevice	/6213/0/6212/6221/4/6522	Byte:6	Byte:7
+Delay-4.bwdevice	/6213/0/6212/6221/5/6522	Byte:6	Byte:7
+Delay-4.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Delay-4.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Distortion.bwdevice	/6213/0/6212/6221/2/6221/0/6221/0/6228	Byte:0	Byte:1
+Distortion.bwdevice	/6213/0/6212/6221/2/6221/0/6228	Byte:0	Byte:1
+Distortion.bwdevice	/6213/0/6212/6221/2/6221/13/6520	Byte:8	Byte:6
+Distortion.bwdevice	/6213/0/6212/6221/2/6221/14/6520	Byte:8	Byte:6
+Distortion.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Distortion.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Dribble.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:6	Byte:7
+Dribble.bwdevice	/6213/0/6212/6221/2/6520	Byte:6	Byte:7
+Dribble.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Dribble.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+Dribble.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Drum Machine.bwdevice	/6213/0/6212/6221/0/6221/1/6520	Byte:6	Byte:7
+Drum Machine.bwdevice	/6213/0/6212/6221/0/6221/2/6520	Byte:6	Byte:7
+Drum Machine.bwdevice	/6213/0/6212/6221/0/6221/3/6221/0/6520	Byte:6	Byte:7
+Drum Machine.bwdevice	/6213/0/6212/6221/0/6221/3/6221/1/6520	Byte:6	Byte:7
+Drum Machine.bwdevice	/6213/0/6212/6221/0/6221/3/6221/2/6520	Byte:6	Byte:7
+Drum Machine.bwdevice	/6213/0/6212/6221/0/6221/3/6221/3/6520	Byte:6	Byte:7
+Drum Machine.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Drum Machine.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Drum Machine.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Drum Machine.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Dual Pan.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Dynamics.bwdevice	/6213/0/6212/6221/2/6221/0/6228	Byte:0	Byte:1
+Dynamics.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Dynamics.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Dynamics.bwdevice	/6213/1/6212/6221/0/6228	Byte:0	Byte:1
+Dynamics.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Dynamics.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+EQ+.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+EQ+.bwdevice	/6213/0/6212/6221/1/6221/0/6221/0/6228	Byte:0	Byte:1
+EQ+.bwdevice	/6213/0/6212/6221/1/6221/0/6228	Byte:0	Byte:1
+EQ+.bwdevice	/6213/0/6212/6221/2/6221/0/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/0/6212/6221/2/6221/3/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/0/6212/6221/2/6221/4/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/0/6212/6221/3/6221/2/6221/2/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/0/6212/6221/3/6221/2/6221/3/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/0/6212/6221/3/6221/2/6221/4/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/0/6212/6221/4/6221/0/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/0/6212/6221/4/6221/1/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/0/6212/6221/4/6221/2/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/0/6212/6221/4/6221/3/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/0/6212/6221/4/6221/4/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/0/6212/6245	Byte:3	Byte:5
+EQ+.bwdevice	/6213/1/6212/6221/0/6221/0/6221/0/6228	Byte:0	Byte:1
+EQ+.bwdevice	/6213/1/6212/6221/0/6221/0/6228	Byte:0	Byte:1
+EQ+.bwdevice	/6213/1/6212/6221/1/6221/1/6221/2/6221/2/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/1/6212/6221/1/6221/1/6221/2/6221/3/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/1/6212/6221/1/6221/1/6221/2/6221/4/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/2/6212/6221/3/6221/0/6520	Byte:8	Byte:6
+EQ+.bwdevice	/6213/2/6212/6221/9/6221/1/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/2/6212/6221/9/6221/4/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/2/6212/6221/9/6221/11/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/2/6212/6221/9/6221/12/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/2/6212/6221/9/6221/13/6520	Byte:8	Byte:7
+EQ+.bwdevice	/6213/2/6212/6221/9/6522	Byte:6	Byte:7
+EQ+.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+EQ+.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+EQ+.bwdevice	/6213/3/6212/6221/0/6228	Byte:0	Byte:1
+EQ+.bwdevice	/6213/3/6212/6228	Byte:0	Byte:1
+EQ+.bwdevice	/6213/3/6212/6245	Byte:1	Byte:5
+EQ-2.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+EQ-2.bwdevice	/6213/0/6212/6221/2/6221/0/6228	Byte:0	Byte:1
+EQ-2.bwdevice	/6213/0/6212/6221/2/6228	Byte:0	Byte:1
+EQ-2.bwdevice	/6213/0/6212/6245	Byte:3	Byte:5
+EQ-2.bwdevice	/6213/1/6212/6221/0/6228	Byte:0	Byte:1
+EQ-2.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+EQ-2.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+EQ-5.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+EQ-5.bwdevice	/6213/0/6212/6221/1/6522	Byte:6	Byte:7
+EQ-5.bwdevice	/6213/0/6212/6221/2/6221/0/6221/0/6228	Byte:0	Byte:1
+EQ-5.bwdevice	/6213/0/6212/6221/2/6221/0/6228	Byte:0	Byte:1
+EQ-5.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+EQ-5.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+EQ-5.bwdevice	/6213/1/6212/6221/0/6228	Byte:0	Byte:1
+EQ-5.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+EQ-5.bwdevice	/6213/2/6212/6221/0/6221/0/6228	Byte:0	Byte:1
+EQ-5.bwdevice	/6213/2/6212/6221/0/6228	Byte:0	Byte:1
+EQ-5.bwdevice	/6213/3/6212/6221/0/6221/0/6228	Byte:0	Byte:1
+EQ-5.bwdevice	/6213/3/6212/6221/0/6228	Byte:0	Byte:1
+EQ-5.bwdevice	/6213/4/6212/6221/0/6228	Byte:0	Byte:1
+EQ-5.bwdevice	/6213/4/6212/6228	Byte:0	Byte:1
+EQ-5.bwdevice	/6213/4/6212/6245	Byte:1	Byte:5
+EQ-5.bwdevice	/6213/5/6212/6221/0/6221/2/6520	Byte:8	Byte:7
+EQ-5.bwdevice	/6213/5/6212/6221/0/6221/3/6520	Byte:8	Byte:7
+EQ-5.bwdevice	/6213/5/6212/6221/0/6522	Byte:6	Byte:7
+EQ-5.bwdevice	/6213/5/6212/6228	Byte:0	Byte:1
+EQ-5.bwdevice	/6213/5/6212/6245	Byte:1	Byte:5
+EQ-DJ.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+EQ-DJ.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Echo.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Echo.bwdevice	/6213/0/6212/6221/6/6221/8/6520	Byte:13	Byte:7
+Echo.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Echo.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Echo.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Echo.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Echo.bwdevice	/6213/2/6212/6221/1/6221/0/6520	Byte:6	Byte:7
+Echo.bwdevice	/6213/2/6212/6245	Byte:0	Byte:5
+FM-4.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+FM-4.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+FM-4.bwdevice	/6213/1/6212/6221/1/6221/2/6221/1/6221/0/6221/0/6520	Byte:6	Byte:7
+FM-4.bwdevice	/6213/1/6212/6221/1/6221/2/6221/1/6221/0/6221/1/6520	Byte:6	Byte:7
+FM-4.bwdevice	/6213/1/6212/6221/1/6221/2/6221/1/6221/0/6221/2/6520	Byte:6	Byte:7
+FM-4.bwdevice	/6213/1/6212/6221/1/6221/2/6221/1/6221/0/6221/3/6520	Byte:6	Byte:7
+FM-4.bwdevice	/6213/1/6212/6221/1/6221/2/6221/1/6221/2/6221/0/6520	Byte:6	Byte:7
+FM-4.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+FM-4.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+FX Grid.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+FX Grid.bwdevice	/6213/0/6212/6221/1/6520	Byte:6	Byte:7
+FX Grid.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+FX Grid.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+FX Grid.bwdevice	/6213/1/6212/6221/0/6221/0/6520	Byte:6	Byte:7
+FX Grid.bwdevice	/6213/1/6212/6221/1/6221/2/6520	Byte:6	Byte:7
+FX Grid.bwdevice	/6213/1/6212/6221/1/6221/3/6520	Byte:6	Byte:7
+FX Grid.bwdevice	/6213/1/6212/6221/1/6221/4/6520	Byte:6	Byte:7
+FX Grid.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+FX Grid.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+FX Grid.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+FX Grid.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+FX Layer.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+FX Layer.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+FX Layer.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+FX Selector.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+FX Selector.bwdevice	/6213/0/6212/6221/1/6520	Byte:6	Byte:7
+FX Selector.bwdevice	/6213/0/6212/6221/2/6221/1/6221/0/6221/0/6520	Byte:13	Byte:7
+FX Selector.bwdevice	/6213/0/6212/6221/2/6221/1/6221/0/6221/2/6221/6/6520	Byte:8	Byte:7
+FX Selector.bwdevice	/6213/0/6212/6221/2/6221/1/6221/0/6221/2/6221/8/6520	Byte:8	Byte:7
+FX Selector.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+FX Selector.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+FX Selector.bwdevice	/6213/1/6212/6221/1/6221/1/6520	Byte:6	Byte:7
+FX Selector.bwdevice	/6213/1/6212/6221/1/6221/3/6520	Byte:6	Byte:7
+FX Selector.bwdevice	/6213/1/6212/6221/1/6221/7/6520	Byte:6	Byte:7
+FX Selector.bwdevice	/6213/1/6212/6221/1/6221/9/6520	Byte:6	Byte:7
+FX Selector.bwdevice	/6213/1/6212/6221/1/6221/11/6520	Byte:8	Byte:7
+FX Selector.bwdevice	/6213/1/6212/6221/2/6221/0/6520	Byte:8	Byte:7
+FX Selector.bwdevice	/6213/1/6212/6221/2/6221/1/6520	Byte:6	Byte:7
+FX Selector.bwdevice	/6213/1/6212/6221/2/6221/3/6520	Byte:6	Byte:7
+FX Selector.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Filter+.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Filter+.bwdevice	/6213/0/6212/6221/5/6221/1/6221/3/6520	Byte:6	Byte:7
+Filter+.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Filter+.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Filter+.bwdevice	/6213/1/6212/6221/0/6221/0/6520	Byte:6	Byte:7
+Filter+.bwdevice	/6213/1/6212/6221/1/6221/2/6520	Byte:6	Byte:7
+Filter+.bwdevice	/6213/1/6212/6221/1/6221/3/6520	Byte:6	Byte:7
+Filter+.bwdevice	/6213/1/6212/6221/1/6221/4/6520	Byte:6	Byte:7
+Filter+.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Filter+.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Filter+.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Filter+.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+Filter.bwdevice	/6213/0/6212/6221/0/6221/3/6520	Byte:8	Byte:7
+Filter.bwdevice	/6213/0/6212/6221/0/6221/4/6520	Byte:8	Byte:7
+Filter.bwdevice	/6213/0/6212/6221/1/6221/2/6228	Byte:0	Byte:1
+Filter.bwdevice	/6213/0/6212/6221/1/6228	Byte:0	Byte:1
+Filter.bwdevice	/6213/0/6212/6245	Byte:3	Byte:5
+Flanger+.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Flanger+.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Flanger.bwdevice	/6213/0/6212/6221/0/6221/8/6520	Byte:6	Byte:7
+Flanger.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Flanger.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Focus.bwdevice	/6213/0/6212/6221/1/6221/0/6221/0/6520	Byte:8	Byte:7
+Focus.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Focus.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Focus.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+Focus.bwdevice	/6213/1/6212/6221/1/6520	Byte:8	Byte:7
+Focus.bwdevice	/6213/1/6212/6221/4/6520	Byte:8	Byte:7
+Focus.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Focus.bwdevice	/6213/2/6212/6221/0/6228	Byte:0	Byte:1
+Focus.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Focus.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+Freq Shifter+.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:6
+Freq Shifter+.bwdevice	/6213/0/6212/6221/1/6221/0/12370	Double:1.0	Double:0.0
+Freq Shifter+.bwdevice	/6213/0/6212/6221/1/6221/1/12370	Double:1.0	Double:0.0
+Freq Shifter+.bwdevice	/6213/0/6212/6221/1/6221/2/6521	Byte:8	Byte:6
+Freq Shifter+.bwdevice	/6213/0/6212/6221/1/6221/6/6228	Byte:1	Byte:0
+Freq Shifter+.bwdevice	/6213/0/6212/6221/2/6221/2/6520	Byte:8	Byte:7
+Freq Shifter+.bwdevice	/6213/0/6212/6221/2/6221/5/6520	Byte:8	Byte:7
+Freq Shifter+.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Freq Shifter+.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Freq Shifter+.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+Freq Shifter+.bwdevice	/6213/1/6212/6221/2/6520	Byte:6	Byte:7
+Freq Shifter+.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Freq Shifter.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Freq Split.bwdevice	/6213/0/6212/6221/0/6221/0/6221/4/6228	Byte:0	Byte:1
+Freq Split.bwdevice	/6213/0/6212/6221/0/6221/0/6228	Byte:0	Byte:1
+Freq Split.bwdevice	/6213/0/6212/6221/0/6221/1/6520	Byte:8	Byte:6
+Freq Split.bwdevice	/6213/0/6212/6221/0/6221/8/6520	Byte:8	Byte:6
+Freq Split.bwdevice	/6213/0/6212/6221/0/6221/10/6520	Byte:8	Byte:6
+Freq Split.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Freq Split.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Freq Split.bwdevice	/6213/1/6212/6221/0/6520	Byte:8	Byte:7
+Freq Split.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Gate.bwdevice	/6213/0/6212/6221/2/6221/0/6228	Byte:0	Byte:1
+Gate.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Gate.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Gate.bwdevice	/6213/1/6212/6221/0/6228	Byte:0	Byte:1
+Gate.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Gate.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+HW CV Instrument.bwdevice	/6213/0/6212/6221/0/6221/1/6221/2/6221/2/6520	Byte:6	Byte:7
+HW CV Instrument.bwdevice	/6213/0/6212/6221/0/6221/3/6221/4/6520	Byte:6	Byte:7
+HW CV Instrument.bwdevice	/6213/0/6212/6221/0/6221/3/6221/5/6221/1/6520	Byte:8	Byte:6
+HW CV Instrument.bwdevice	/6213/0/6212/6221/0/6221/3/6221/6/6520	Byte:6	Byte:7
+HW CV Instrument.bwdevice	/6213/0/6212/6221/1/6221/2/6221/2/6520	Byte:6	Byte:7
+HW CV Instrument.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+HW CV Instrument.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+HW CV Instrument.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+HW CV Instrument.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+HW CV Out.bwdevice	/6213/0/6212/6221/0/6221/5/6228	Byte:0	Byte:1
+HW CV Out.bwdevice	/6213/0/6212/6221/0/6221/7/6520	Byte:6	Byte:7
+HW CV Out.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+HW CV Out.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+HW Clock Out.bwdevice	/6213/0/6212/6221/0/6221/8/6228	Byte:0	Byte:1
+HW Clock Out.bwdevice	/6213/0/6212/6221/1/6221/7/6228	Byte:0	Byte:1
+HW Clock Out.bwdevice	/6213/0/6212/6221/3/6520	Byte:6	Byte:7
+HW Clock Out.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+HW Clock Out.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+HW Clock Out.bwdevice	/6213/1/6212/6221/1/6520	Byte:8	Byte:7
+HW Clock Out.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+HW FX.bwdevice	/6213/0/6212/6221/4/6221/0/6221/2/6520	Byte:6	Byte:7
+HW FX.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+HW FX.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+HW Instrument.bwdevice	/6213/0/6212/6221/0/6221/1/6520	Byte:6	Byte:7
+HW Instrument.bwdevice	/6213/0/6212/6221/1/6221/1/6520	Byte:6	Byte:7
+HW Instrument.bwdevice	/6213/0/6212/6221/1/6221/5/6221/2/6520	Byte:6	Byte:7
+HW Instrument.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+HW Instrument.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+HW Instrument.bwdevice	/6213/1/6212/6221/2/6520	Byte:8	Byte:7
+HW Instrument.bwdevice	/6213/1/6212/6221/3/6520	Byte:8	Byte:7
+HW Instrument.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Harmonic Split.bwdevice	/6213/0/6212/6221/0/6221/3/6520	Byte:8	Byte:6
+Harmonic Split.bwdevice	/6213/0/6212/6221/0/6221/4/6520	Byte:8	Byte:6
+Harmonic Split.bwdevice	/6213/0/6212/6221/0/6221/5/6520	Byte:8	Byte:6
+Harmonic Split.bwdevice	/6213/0/6212/6221/0/6221/6/6520	Byte:8	Byte:6
+Harmonic Split.bwdevice	/6213/0/6212/6221/2/6221/0/6520	Byte:8	Byte:7
+Harmonic Split.bwdevice	/6213/0/6212/6221/2/6221/1/6520	Byte:13	Byte:7
+Harmonic Split.bwdevice	/6213/0/6212/6221/4/6221/0/6520	Byte:8	Byte:7
+Harmonic Split.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Harmonic Split.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Harmonic Split.bwdevice	/6213/1/6212/6221/0/6520	Byte:8	Byte:7
+Harmonic Split.bwdevice	/6213/1/6212/6221/2/6520	Byte:8	Byte:7
+Harmonic Split.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Harmonize.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Harmonize.bwdevice	/6213/0/6212/6221/2/6520	Byte:6	Byte:7
+Harmonize.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Humanize.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Instrument Layer.bwdevice	/6213/0/6212/6221/2/6520	Byte:6	Byte:7
+Instrument Layer.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Instrument Layer.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Instrument Selector.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Instrument Selector.bwdevice	/6213/0/6212/6221/1/6520	Byte:6	Byte:7
+Instrument Selector.bwdevice	/6213/0/6212/6221/4/6221/0/6221/0/6520	Byte:13	Byte:7
+Instrument Selector.bwdevice	/6213/0/6212/6221/4/6221/0/6221/2/6221/6/6520	Byte:8	Byte:7
+Instrument Selector.bwdevice	/6213/0/6212/6221/4/6221/0/6221/2/6221/8/6520	Byte:8	Byte:7
+Instrument Selector.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Instrument Selector.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Instrument Selector.bwdevice	/6213/1/6212/6221/1/6520	Byte:6	Byte:7
+Instrument Selector.bwdevice	/6213/1/6212/6221/2/6520	Byte:6	Byte:7
+Instrument Selector.bwdevice	/6213/1/6212/6221/7/6520	Byte:6	Byte:7
+Instrument Selector.bwdevice	/6213/1/6212/6221/9/6520	Byte:6	Byte:7
+Instrument Selector.bwdevice	/6213/1/6212/6221/11/6520	Byte:8	Byte:7
+Instrument Selector.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Key Filter+.bwdevice	/6213/0/6212/6221/1/6221/0/6520	Byte:8	Byte:7
+Key Filter+.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Key Filter+.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Key Filter+.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Key Filter+.bwdevice	/6213/2/6212/6221/1/6221/0/6520	Byte:6	Byte:7
+Key Filter+.bwdevice	/6213/2/6212/6245	Byte:0	Byte:5
+Key Filter.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Key Filter.bwdevice	/6213/0/6212/6221/1/6221/4/6520	Byte:6	Byte:7
+Key Filter.bwdevice	/6213/0/6212/6221/1/6221/5/6520	Byte:6	Byte:7
+Key Filter.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Key Filter.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+LFO MOD.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+LFO MOD.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Ladder.bwdevice	/6213/0/6212/6221/1/6522	Byte:6	Byte:7
+Ladder.bwdevice	/6213/0/6212/6221/2/6522	Byte:6	Byte:7
+Ladder.bwdevice	/6213/0/6212/6221/3/6522	Byte:6	Byte:7
+Ladder.bwdevice	/6213/0/6212/6221/4/6522	Byte:6	Byte:7
+Ladder.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Ladder.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Latch.bwdevice	/6213/0/6212/6221/1/6520	Byte:6	Byte:7
+Latch.bwdevice	/6213/0/6212/6221/4/6520	Byte:6	Byte:7
+Latch.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Loud Split.bwdevice	/6213/0/6212/6221/0/6221/1/6520	Byte:8	Byte:6
+Loud Split.bwdevice	/6213/0/6212/6221/0/6221/3/6520	Byte:8	Byte:6
+Loud Split.bwdevice	/6213/0/6212/6221/0/6221/5/6520	Byte:8	Byte:6
+Loud Split.bwdevice	/6213/0/6212/6221/0/6221/7/6221/2/6228	Byte:0	Byte:1
+Loud Split.bwdevice	/6213/0/6212/6221/0/6221/7/6221/3/6228	Byte:0	Byte:1
+Loud Split.bwdevice	/6213/0/6212/6221/2/6221/3/6520	Byte:13	Byte:7
+Loud Split.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Loud Split.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Loud Split.bwdevice	/6213/1/6212/6221/0/6520	Byte:8	Byte:7
+Loud Split.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+MIDI CC.bwdevice	/6213/0/6212/6221/1/6221/1/6520	Byte:6	Byte:7
+MIDI CC.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+MIDI CC.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+MIDI Program Change.bwdevice	/6213/0/6212/6221/0/6221/5/6520	Byte:6	Byte:7
+MIDI Program Change.bwdevice	/6213/0/6212/6221/0/6221/7/6520	Byte:6	Byte:7
+MIDI Program Change.bwdevice	/6213/0/6212/6221/2/6221/1/6520	Byte:6	Byte:7
+MIDI Program Change.bwdevice	/6213/0/6212/6221/2/6221/4/6520	Byte:6	Byte:7
+MIDI Program Change.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+MIDI Program Change.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+MIDI Song Select.bwdevice	/6213/0/6212/6221/0/6522	Byte:6	Byte:7
+MIDI Song Select.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+MIDI Song Select.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Micro-pitch.bwdevice	/6213/0/6212/6221/1/6228	Byte:0	Byte:1
+Micro-pitch.bwdevice	/6213/0/6212/6221/2/6228	Byte:0	Byte:1
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/7/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/8/6221/1/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/8/6221/13/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/8/6221/14/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/8/6221/15/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/8/6221/16/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/8/6221/17/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/8/6221/18/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/8/6221/19/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/8/6221/20/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/8/6221/21/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/8/6221/22/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/8/6221/34/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/8/6221/35/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/11/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/12/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/3/6221/13/6520	Byte:8	Byte:6
+Micro-pitch.bwdevice	/6213/0/6212/6221/5/6520	Byte:8	Byte:7
+Micro-pitch.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Micro-pitch.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+Micro-pitch.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Mid-Side Split.bwdevice	/6213/0/6212/6221/1/6221/1/6520	Byte:8	Byte:7
+Mid-Side Split.bwdevice	/6213/0/6212/6221/6/6221/0/6520	Byte:8	Byte:7
+Mid-Side Split.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Multi-note.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:6	Byte:7
+Multi-note.bwdevice	/6213/0/6212/6221/0/6221/2/6520	Byte:6	Byte:7
+Multi-note.bwdevice	/6213/0/6212/6221/0/6221/5/6520	Byte:6	Byte:7
+Multi-note.bwdevice	/6213/0/6212/6221/0/6221/6/6520	Byte:6	Byte:7
+Multi-note.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Multi-note.bwdevice	/6213/1/6212/6221/3/6221/0/6520	Byte:8	Byte:6
+Multi-note.bwdevice	/6213/1/6212/6221/4/6520	Byte:8	Byte:7
+Multi-note.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Multi-note.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Multi-note.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+Multiband FX-2.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Multiband FX-2.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Multiband FX-3.bwdevice	/6213/0/6212/6221/3/6221/0/6221/0/6228	Byte:0	Byte:1
+Multiband FX-3.bwdevice	/6213/0/6212/6221/3/6221/0/6228	Byte:0	Byte:1
+Multiband FX-3.bwdevice	/6213/0/6212/6221/3/6221/1/6520	Byte:8	Byte:6
+Multiband FX-3.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Multiband FX-3.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Note Delay.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Note Delay.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Note FX Layer.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Note FX Layer.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Note FX Layer.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Note FX Selector.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Note FX Selector.bwdevice	/6213/0/6212/6221/1/6520	Byte:6	Byte:7
+Note FX Selector.bwdevice	/6213/0/6212/6221/3/6221/0/6221/0/6520	Byte:13	Byte:7
+Note FX Selector.bwdevice	/6213/0/6212/6221/3/6221/0/6221/2/6221/6/6520	Byte:6	Byte:7
+Note FX Selector.bwdevice	/6213/0/6212/6221/3/6221/0/6221/2/6221/8/6520	Byte:6	Byte:7
+Note FX Selector.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Note FX Selector.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Note FX Selector.bwdevice	/6213/1/6212/6221/1/6520	Byte:6	Byte:7
+Note FX Selector.bwdevice	/6213/1/6212/6221/2/6520	Byte:6	Byte:7
+Note FX Selector.bwdevice	/6213/1/6212/6221/7/6520	Byte:6	Byte:7
+Note FX Selector.bwdevice	/6213/1/6212/6221/9/6520	Byte:6	Byte:7
+Note FX Selector.bwdevice	/6213/1/6212/6221/11/6520	Byte:8	Byte:7
+Note FX Selector.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Note Filter.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Note Filter.bwdevice	/6213/0/6212/6221/2/6520	Byte:6	Byte:7
+Note Filter.bwdevice	/6213/0/6212/6221/4/6520	Byte:6	Byte:7
+Note Filter.bwdevice	/6213/0/6212/6221/6/6520	Byte:6	Byte:7
+Note Filter.bwdevice	/6213/0/6212/6221/8/6520	Byte:6	Byte:7
+Note Filter.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Note Grid.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Note Grid.bwdevice	/6213/0/6212/6221/1/6520	Byte:6	Byte:7
+Note Grid.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Note Grid.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Note Grid.bwdevice	/6213/1/6212/6221/0/6221/0/6520	Byte:6	Byte:7
+Note Grid.bwdevice	/6213/1/6212/6221/1/6221/2/6520	Byte:6	Byte:7
+Note Grid.bwdevice	/6213/1/6212/6221/1/6221/3/6520	Byte:6	Byte:7
+Note Grid.bwdevice	/6213/1/6212/6221/1/6221/4/6520	Byte:6	Byte:7
+Note Grid.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Note Grid.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Note Grid.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Note Grid.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+Note Length.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Note Length.bwdevice	/6213/0/6212/6221/1/6520	Byte:6	Byte:7
+Note Length.bwdevice	/6213/0/6212/6221/7/6520	Byte:6	Byte:7
+Note Length.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Note MOD.bwdevice	/6213/0/6212/6221/5/6221/8/6228	Byte:0	Byte:1
+Note MOD.bwdevice	/6213/0/6212/6221/6/6221/0/6520	Byte:6	Byte:7
+Note MOD.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Note MOD.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Note Receiver.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+Note Receiver.bwdevice	/6213/0/6212/6221/0/6221/1/6520	Byte:8	Byte:7
+Note Receiver.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Note Receiver.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Note Repeats.bwdevice	/6213/0/6212/6221/0/6221/2/6520	Byte:6	Byte:7
+Note Repeats.bwdevice	/6213/0/6212/6221/0/6221/3/6520	Byte:6	Byte:7
+Note Repeats.bwdevice	/6213/0/6212/6221/0/6221/7/6520	Byte:8	Byte:7
+Note Repeats.bwdevice	/6213/0/6212/6221/0/6221/10/6520	Byte:8	Byte:7
+Note Repeats.bwdevice	/6213/0/6212/6221/1/6221/1/6520	Byte:6	Byte:7
+Note Repeats.bwdevice	/6213/0/6212/6221/2/6221/0/6221/0/6520	Byte:6	Byte:7
+Note Repeats.bwdevice	/6213/0/6212/6221/2/6221/0/6221/1/6520	Byte:6	Byte:7
+Note Repeats.bwdevice	/6213/0/6212/6221/2/6221/0/6221/2/6221/0/6520	Byte:8	Byte:7
+Note Repeats.bwdevice	/6213/0/6212/6221/2/6221/0/6221/3/6221/0/6520	Byte:8	Byte:7
+Note Repeats.bwdevice	/6213/0/6212/6221/2/6221/0/6221/4/6221/0/6520	Byte:8	Byte:7
+Note Repeats.bwdevice	/6213/0/6212/6221/2/6221/1/6221/0/6520	Byte:6	Byte:7
+Note Repeats.bwdevice	/6213/0/6212/6221/2/6221/1/6221/1/6221/0/6520	Byte:8	Byte:7
+Note Repeats.bwdevice	/6213/0/6212/6221/2/6221/1/6221/2/6221/0/6520	Byte:8	Byte:7
+Note Repeats.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Note Repeats.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Note Transpose.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Note Transpose.bwdevice	/6213/0/6212/6221/2/6221/0/6520	Byte:6	Byte:7
+Note Transpose.bwdevice	/6213/0/6212/6221/4/6520	Byte:6	Byte:7
+Note Transpose.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Note Transpose.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Note Transpose.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Note Transpose.bwdevice	/6213/2/6212/6245	Byte:0	Byte:5
+Organ.bwdevice	/6213/0/6212/6221/1/6221/3/6520	Byte:6	Byte:7
+Organ.bwdevice	/6213/0/6212/6221/1/6221/4/6520	Byte:6	Byte:7
+Organ.bwdevice	/6213/0/6212/6221/1/6221/6/6520	Byte:6	Byte:7
+Organ.bwdevice	/6213/0/6212/6221/1/6221/7/6520	Byte:6	Byte:7
+Organ.bwdevice	/6213/0/6212/6221/4/6221/4/6520	Byte:6	Byte:7
+Organ.bwdevice	/6213/0/6212/6221/4/6221/5/6520	Byte:6	Byte:7
+Organ.bwdevice	/6213/0/6212/6221/4/6221/6/6520	Byte:6	Byte:7
+Organ.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Organ.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Oscilloscope.bwdevice	/6213/0/6212/6221/0/6221/0/6228	Byte:0	Byte:1
+Oscilloscope.bwdevice	/6213/0/6212/6221/0/6221/1/6221/7/6520	Byte:8	Byte:6
+Oscilloscope.bwdevice	/6213/0/6212/6221/1/6221/0/6228	Byte:0	Byte:1
+Oscilloscope.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Oscilloscope.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Oscilloscope.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Oscilloscope.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Oscilloscope.bwdevice	/6213/2/6212/6221/2/6520	Byte:8	Byte:7
+Oscilloscope.bwdevice	/6213/2/6212/6221/5/6520	Byte:8	Byte:7
+Oscilloscope.bwdevice	/6213/2/6212/6221/7/6520	Byte:8	Byte:7
+Oscilloscope.bwdevice	/6213/2/6212/6221/9/6520	Byte:8	Byte:7
+Oscilloscope.bwdevice	/6213/2/6212/6221/11/6520	Byte:8	Byte:7
+Oscilloscope.bwdevice	/6213/2/6212/6245	Byte:0	Byte:5
+Over.bwdevice	/6213/0/6212/6221/0/6221/4/6520	Byte:8	Byte:7
+Over.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Over.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Over.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Peak Limiter.bwdevice	/6213/0/6212/6221/3/6221/0/6221/9/6228	Byte:0	Byte:1
+Peak Limiter.bwdevice	/6213/0/6212/6221/3/6228	Byte:0	Byte:1
+Peak Limiter.bwdevice	/6213/0/6212/6245	Byte:3	Byte:5
+Peak Limiter.bwdevice	/6213/1/6212/6221/0/6228	Byte:0	Byte:1
+Peak Limiter.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Peak Limiter.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Phase-4.bwdevice	/6213/0/6212/6221/0/6221/0/6221/1/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/0/6221/0/6221/3/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/0/6221/0/6221/4/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/0/6221/0/6221/5/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/0/6221/0/6221/9/6221/1/6228	Byte:0	Byte:1
+Phase-4.bwdevice	/6213/0/6212/6221/0/6221/0/6221/9/6228	Byte:0	Byte:1
+Phase-4.bwdevice	/6213/0/6212/6221/1/6221/0/6221/2/6221/6/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/1/6221/0/6221/2/6221/7/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/1/6221/1/6221/2/6221/7/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/1/6221/1/6221/2/6221/8/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/2/6221/0/6221/2/6221/7/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/2/6221/0/6221/2/6221/8/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/2/6221/1/6221/2/6221/7/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/2/6221/1/6221/2/6221/8/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/3/6221/0/6221/6/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/3/6221/1/6221/6/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/3/6221/1/6221/7/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/3/6221/1/6221/8/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/3/6221/1/6221/9/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/4/6221/2/6221/0/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/4/6221/2/6221/3/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6221/4/6221/2/6221/4/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Phase-4.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/0/6221/0/6221/2/6228	Byte:0	Byte:1
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/0/6221/1/6221/2/6228	Byte:0	Byte:1
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/0/6221/2/6221/2/6228	Byte:0	Byte:1
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/1/6221/0/6221/2/6228	Byte:0	Byte:1
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/1/6221/1/6221/2/6228	Byte:0	Byte:1
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/1/6221/2/6221/0/6221/1/6221/0/6221/0/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/1/6221/2/6221/0/6221/1/6221/0/6221/1/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/1/6221/2/6221/0/6221/1/6221/0/6221/2/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/1/6221/2/6221/0/6221/1/6221/0/6221/3/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/1/6221/2/6221/0/6221/1/6221/2/6221/0/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/1/6221/2/6221/1/6221/1/6221/0/6221/0/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/1/6221/2/6221/1/6221/1/6221/0/6221/1/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/1/6221/2/6221/1/6221/1/6221/0/6221/2/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/1/6221/2/6221/1/6221/1/6221/0/6221/3/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/1/6212/6221/0/6221/1/6221/2/6221/1/6221/1/6221/2/6221/0/6520	Byte:6	Byte:7
+Phase-4.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Phase-4.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Phaser+.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Phaser+.bwdevice	/6213/1/6212/6221/0/6520	Byte:8	Byte:7
+Phaser+.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Phaser.bwdevice	/6213/0/6212/6221/1/6221/0/6228	Byte:0	Byte:1
+Phaser.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Phaser.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Pitch Shifter.bwdevice	/6213/0/6212/6221/0/6221/2/6520	Byte:6	Byte:7
+Pitch Shifter.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Pitch Shifter.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Poly Grid.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Poly Grid.bwdevice	/6213/0/6212/6221/1/6520	Byte:6	Byte:7
+Poly Grid.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Poly Grid.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Poly Grid.bwdevice	/6213/1/6212/6221/0/6221/0/6520	Byte:6	Byte:7
+Poly Grid.bwdevice	/6213/1/6212/6221/1/6221/2/6520	Byte:6	Byte:7
+Poly Grid.bwdevice	/6213/1/6212/6221/1/6221/3/6520	Byte:6	Byte:7
+Poly Grid.bwdevice	/6213/1/6212/6221/1/6221/4/6520	Byte:6	Byte:7
+Poly Grid.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Poly Grid.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Poly Grid.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Poly Grid.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+Polymer.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Polymer.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Polymer.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Polymer.bwdevice	/6213/1/6212/6221/1/6520	Byte:6	Byte:7
+Polymer.bwdevice	/6213/1/6212/6221/2/6520	Byte:6	Byte:7
+Polymer.bwdevice	/6213/1/6212/6221/3/6520	Byte:6	Byte:7
+Polymer.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Polymer.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Polymer.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+Polysynth.bwdevice	/6213/0/6212/6221/1/6221/1/6221/13/6520	Byte:8	Byte:7
+Polysynth.bwdevice	/6213/0/6212/6221/2/6221/1/6221/10/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/0/6212/6221/2/6221/1/6221/11/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/0/6212/6221/2/6221/1/6221/12/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/0/6212/6221/2/6221/1/6221/13/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/0/6212/6221/3/6221/2/6221/1/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/0/6212/6221/3/6221/2/6221/2/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/0/6212/6221/3/6221/2/6221/10/6520	Byte:8	Byte:7
+Polysynth.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Polysynth.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/0/6221/0/6221/2/6228	Byte:0	Byte:1
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/0/6221/0/6221/3/6228	Byte:0	Byte:1
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/0/6221/1/6221/2/6228	Byte:0	Byte:1
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/0/6221/1/6221/3/6228	Byte:0	Byte:1
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/1/6221/0/6221/2/6228	Byte:0	Byte:1
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/1/6221/1/6221/2/6228	Byte:0	Byte:1
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/2/6221/0/6221/1/6221/0/6221/0/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/2/6221/0/6221/1/6221/0/6221/1/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/2/6221/0/6221/1/6221/0/6221/2/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/2/6221/0/6221/1/6221/0/6221/3/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/2/6221/0/6221/1/6221/2/6221/0/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/2/6221/1/6221/1/6221/0/6221/0/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/2/6221/1/6221/1/6221/0/6221/1/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/2/6221/1/6221/1/6221/0/6221/2/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/2/6221/1/6221/1/6221/0/6221/3/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/2/6212/6221/0/6221/2/6221/1/6221/1/6221/2/6221/0/6520	Byte:6	Byte:7
+Polysynth.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Polysynth.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+Polysynth.bwdevice	/6213/3/6212/6228	Byte:0	Byte:1
+Polysynth.bwdevice	/6213/3/6212/6245	Byte:1	Byte:5
+Polysynth.bwdevice	/6213/4/6212/6221/0/6221/0/6228	Byte:0	Byte:1
+Polysynth.bwdevice	/6213/4/6212/6221/1/6221/0/6221/0/6228	Byte:0	Byte:1
+Polysynth.bwdevice	/6213/4/6212/6221/2/6221/0/6221/0/6228	Byte:0	Byte:1
+Polysynth.bwdevice	/6213/4/6212/6228	Byte:0	Byte:1
+Quantize.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Quantize.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Quantize.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Randomize.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Randomize.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Randomize.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Randomize.bwdevice	/6213/2/6212/6245	Byte:0	Byte:5
+Replacer.bwdevice	/6213/0/6212/6221/0/6221/1/6520	Byte:8	Byte:6
+Replacer.bwdevice	/6213/0/6212/6221/0/6221/3/6520	Byte:8	Byte:6
+Replacer.bwdevice	/6213/0/6212/6221/0/6221/7/6520	Byte:8	Byte:6
+Replacer.bwdevice	/6213/0/6212/6221/0/6221/8/6228	Byte:0	Byte:1
+Replacer.bwdevice	/6213/0/6212/6221/1/6221/3/6520	Byte:8	Byte:7
+Replacer.bwdevice	/6213/0/6212/6221/1/6221/4/6520	Byte:8	Byte:7
+Replacer.bwdevice	/6213/0/6212/6221/1/6221/6/6520	Byte:8	Byte:7
+Replacer.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Replacer.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Resonator Bank.bwdevice	/6213/0/6212/6221/3/6221/0/6228	Byte:0	Byte:1
+Resonator Bank.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Resonator Bank.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Resonator Bank.bwdevice	/6213/1/6212/6221/0/6221/0/6228	Byte:0	Byte:1
+Resonator Bank.bwdevice	/6213/1/6212/6221/0/6228	Byte:0	Byte:1
+Reverb.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+Reverb.bwdevice	/6213/0/6212/6221/0/6221/5/6520	Byte:8	Byte:7
+Reverb.bwdevice	/6213/0/6212/6221/4/6221/8/6221/1/6228	Byte:0	Byte:1
+Reverb.bwdevice	/6213/0/6212/6221/4/6221/8/6228	Byte:0	Byte:1
+Reverb.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Reverb.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Ricochet.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Ricochet.bwdevice	/6213/0/6212/6221/2/6228	Byte:0	Byte:1
+Ricochet.bwdevice	/6213/0/6212/6245	Byte:3	Byte:5
+Ricochet.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Ring-Mod.bwdevice	/6213/0/6212/6221/0/6522	Byte:6	Byte:7
+Ring-Mod.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Ring-Mod.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Rotary.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Rotary.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Sampler.bwdevice	/6213/0/6212/6221/0/6221/0/6221/0/6221/0/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/0/6221/0/6221/1/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/3/6221/1/6221/3/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/4/6221/1/6221/3/6221/2/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/4/6221/1/6221/3/6221/4/6221/2/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/4/6221/2/6221/1/6228	Byte:0	Byte:1
+Sampler.bwdevice	/6213/0/6212/6221/4/6221/2/6221/2/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/4/6221/2/6221/4/6221/1/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/4/6221/2/6221/5/6221/2/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/4/6221/2/6221/9/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/4/6221/3/6221/3/6221/3/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/4/6221/4/6221/1/6221/1/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/4/6221/5/6221/5/6221/2/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/4/6221/5/6221/6/6221/1/6221/2/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/5/6221/1/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/5/6221/6/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/5/6221/7/6221/0/6520	Byte:8	Byte:6
+Sampler.bwdevice	/6213/0/6212/6221/6/6221/2/6221/1/6520	Byte:8	Byte:7
+Sampler.bwdevice	/6213/0/6212/6221/7/6221/3/6221/2/6520	Byte:8	Byte:7
+Sampler.bwdevice	/6213/0/6212/6221/7/6221/3/6221/4/6520	Byte:8	Byte:7
+Sampler.bwdevice	/6213/0/6212/6221/7/6221/4/6221/2/6520	Byte:8	Byte:7
+Sampler.bwdevice	/6213/0/6212/6221/7/6221/4/6221/4/6520	Byte:8	Byte:7
+Sampler.bwdevice	/6213/0/6212/6221/7/6221/4/6221/7/6520	Byte:8	Byte:7
+Sampler.bwdevice	/6213/0/6212/6221/7/6221/4/6221/9/6520	Byte:8	Byte:7
+Sampler.bwdevice	/6213/0/6212/6221/7/6221/4/6221/12/6520	Byte:8	Byte:7
+Sampler.bwdevice	/6213/0/6212/6221/8/6221/3/6221/0/6520	Byte:8	Byte:7
+Sampler.bwdevice	/6213/0/6212/6221/8/6221/3/6221/1/6520	Byte:8	Byte:7
+Sampler.bwdevice	/6213/0/6212/6221/8/6221/3/6221/4/6520	Byte:8	Byte:7
+Sampler.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Sampler.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Sampler.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Sampler.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Sampler.bwdevice	/6213/2/6212/6221/0/6221/0/6221/0/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/0/6221/0/6221/5/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/1/6221/0/6221/1/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/1/6221/0/6221/3/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/2/6221/0/6221/0/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/2/6221/0/6221/2/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/2/6221/0/6221/5/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/2/6221/0/6221/7/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/2/6221/0/6221/8/6221/0/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/2/6221/0/6221/8/6221/2/6221/0/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/2/6221/0/6221/8/6221/2/6221/2/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/2/6221/0/6221/10/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/2/6221/0/6522	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/3/6221/0/6221/0/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/3/6221/0/6221/3/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/3/6221/0/6221/5/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/3/6221/0/6221/7/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/3/6221/0/6221/8/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/3/6221/0/6522	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/4/6221/0/6221/0/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/4/6221/0/6221/1/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6221/4/6221/0/6221/3/6520	Byte:6	Byte:7
+Sampler.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Sampler.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+Saturator.bwdevice	/6213/0/6212/6221/0/6221/0/6221/0/6228	Byte:0	Byte:1
+Saturator.bwdevice	/6213/0/6212/6221/0/6221/3/6520	Byte:8	Byte:7
+Saturator.bwdevice	/6213/0/6212/6221/1/6221/8/6228	Byte:0	Byte:1
+Saturator.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Saturator.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Saturator.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Saturator.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Saturator.bwdevice	/6213/2/6212/6221/0/6520	Byte:8	Byte:7
+Saturator.bwdevice	/6213/2/6212/6245	Byte:0	Byte:5
+Sculpt.bwdevice	/6213/0/6212/6221/0/6221/1/6221/5/6520	Byte:8	Byte:7
+Sculpt.bwdevice	/6213/0/6212/6221/0/6221/2/6221/4/6520	Byte:8	Byte:7
+Sculpt.bwdevice	/6213/0/6212/6221/1/6221/0/6221/0/6520	Byte:8	Byte:7
+Sculpt.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Sculpt.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Sculpt.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+Sculpt.bwdevice	/6213/1/6212/6221/1/6520	Byte:8	Byte:7
+Sculpt.bwdevice	/6213/1/6212/6221/4/6520	Byte:8	Byte:7
+Sculpt.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Sculpt.bwdevice	/6213/2/6212/6221/0/6228	Byte:0	Byte:1
+Sculpt.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Sculpt.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+Spectrum.bwdevice	/6213/0/6212/6221/0/6221/0/6221/0/6221/0/6228	Byte:0	Byte:1
+Spectrum.bwdevice	/6213/0/6212/6221/0/6221/0/6221/0/6221/1/6228	Byte:0	Byte:1
+Spectrum.bwdevice	/6213/0/6212/6221/1/6221/0/6221/0/6221/0/6228	Byte:0	Byte:1
+Spectrum.bwdevice	/6213/0/6212/6221/1/6221/0/6221/0/6221/1/6228	Byte:0	Byte:1
+Spectrum.bwdevice	/6213/0/6212/6245	Byte:3	Byte:5
+Spectrum.bwdevice	/6213/1/6212/6221/0/6228	Byte:0	Byte:1
+Spectrum.bwdevice	/6213/1/6212/6221/1/6228	Byte:0	Byte:1
+Spectrum.bwdevice	/6213/2/6212/6221/1/6520	Byte:8	Byte:7
+Spectrum.bwdevice	/6213/2/6212/6221/3/6520	Byte:8	Byte:7
+Spectrum.bwdevice	/6213/2/6212/6221/5/6520	Byte:6	Byte:7
+Spectrum.bwdevice	/6213/2/6212/6221/6/6520	Byte:8	Byte:7
+Spectrum.bwdevice	/6213/2/6212/6221/8/6520	Byte:8	Byte:7
+Spectrum.bwdevice	/6213/2/6212/6221/10/6520	Byte:8	Byte:7
+Spectrum.bwdevice	/6213/2/6212/6221/12/6520	Byte:8	Byte:7
+Spectrum.bwdevice	/6213/2/6212/6221/14/6520	Byte:8	Byte:7
+Spectrum.bwdevice	/6213/2/6212/6221/16/6520	Byte:8	Byte:7
+Spectrum.bwdevice	/6213/2/6212/6221/19/6520	Byte:6	Byte:7
+Spectrum.bwdevice	/6213/2/6212/6245	Byte:0	Byte:5
+Step MOD.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Step MOD.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Stepwise.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:6	Byte:7
+Stepwise.bwdevice	/6213/0/6212/6221/0/6221/16/6221/5/6520	Byte:6	Byte:7
+Stepwise.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Stepwise.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Stepwise.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Stepwise.bwdevice	/6213/2/6212/6221/0/6221/0/6520	Byte:6	Byte:7
+Stepwise.bwdevice	/6213/2/6212/6221/0/6221/2/6520	Byte:6	Byte:7
+Stepwise.bwdevice	/6213/2/6212/6221/1/6221/0/6520	Byte:8	Byte:7
+Stepwise.bwdevice	/6213/2/6212/6221/1/6221/3/6520	Byte:6	Byte:7
+Stepwise.bwdevice	/6213/2/6212/6221/1/6221/5/6520	Byte:6	Byte:7
+Stepwise.bwdevice	/6213/2/6212/6221/1/6221/8/6520	Byte:6	Byte:7
+Stereo Split.bwdevice	/6213/0/6212/6221/1/6221/0/6520	Byte:8	Byte:7
+Stereo Split.bwdevice	/6213/0/6212/6221/6/6221/0/6520	Byte:8	Byte:7
+Stereo Split.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Strum.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Strum.bwdevice	/6213/0/6212/6221/3/6221/0/6520	Byte:6	Byte:7
+Strum.bwdevice	/6213/0/6212/6221/4/6520	Byte:6	Byte:7
+Strum.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Strum.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+Strum.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Sweep.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Sweep.bwdevice	/6213/0/6212/6221/6/6221/4/6520	Byte:6	Byte:7
+Sweep.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Sweep.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Sweep.bwdevice	/6213/1/6212/6221/0/6221/0/6520	Byte:6	Byte:7
+Sweep.bwdevice	/6213/1/6212/6221/1/6221/2/6520	Byte:6	Byte:7
+Sweep.bwdevice	/6213/1/6212/6221/1/6221/3/6520	Byte:6	Byte:7
+Sweep.bwdevice	/6213/1/6212/6221/1/6221/4/6520	Byte:6	Byte:7
+Sweep.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Sweep.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Sweep.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Sweep.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+Test Tone.bwdevice	/6213/0/6212/6245	Byte:3	Byte:5
+Tilt.bwdevice	/6213/0/6212/6221/0/6221/0/6221/0/6228	Byte:0	Byte:1
+Tilt.bwdevice	/6213/0/6212/6221/0/6221/0/6221/1/6228	Byte:0	Byte:1
+Tilt.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Tilt.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+Tilt.bwdevice	/6213/1/6212/6221/1/6520	Byte:8	Byte:7
+Tilt.bwdevice	/6213/1/6212/6221/4/6520	Byte:8	Byte:7
+Tilt.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Tilt.bwdevice	/6213/2/6212/6221/0/6228	Byte:0	Byte:1
+Tilt.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+Tilt.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+Time Shift.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Time Shift.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Tool.bwdevice	/6213/0/6212/6221/0/6221/2/6520	Byte:6	Byte:7
+Tool.bwdevice	/6213/0/6212/6221/0/6221/3/6520	Byte:6	Byte:7
+Tool.bwdevice	/6213/0/6212/6221/0/6221/4/6520	Byte:6	Byte:7
+Tool.bwdevice	/6213/0/6212/6221/0/6221/5/6520	Byte:6	Byte:7
+Tool.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Tool.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Transient Control.bwdevice	/6213/0/6212/6221/0/6221/2/6520	Byte:6	Byte:7
+Transient Control.bwdevice	/6213/0/6212/6221/4/6221/3/6520	Byte:8	Byte:7
+Transient Control.bwdevice	/6213/0/6212/6221/5/6221/4/6520	Byte:8	Byte:7
+Transient Control.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Transient Control.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Transient Split.bwdevice	/6213/0/6212/6221/0/6520	Byte:6	Byte:7
+Transient Split.bwdevice	/6213/0/6212/6221/1/6221/0/6221/0/6221/0/6228	Byte:0	Byte:1
+Transient Split.bwdevice	/6213/0/6212/6221/1/6221/0/6221/0/6221/1/6228	Byte:0	Byte:1
+Transient Split.bwdevice	/6213/0/6212/6221/1/6221/0/6221/1/6221/0/6228	Byte:0	Byte:1
+Transient Split.bwdevice	/6213/0/6212/6221/1/6221/0/6221/1/6221/1/6228	Byte:0	Byte:1
+Transient Split.bwdevice	/6213/0/6212/6221/1/6221/2/6520	Byte:8	Byte:6
+Transient Split.bwdevice	/6213/0/6212/6221/1/6221/4/6520	Byte:8	Byte:6
+Transient Split.bwdevice	/6213/0/6212/6221/1/6221/7/6520	Byte:8	Byte:6
+Transient Split.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Transient Split.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Transient Split.bwdevice	/6213/1/6212/6221/0/6520	Byte:8	Byte:7
+Transient Split.bwdevice	/6213/1/6212/6221/2/6520	Byte:8	Byte:7
+Transient Split.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+Transpose Map.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/0/6221/1/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/0/6221/2/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/0/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/14/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/15/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/16/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/17/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/18/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/19/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/20/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/21/6520	Byte:8	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/22/6520	Byte:8	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/23/6520	Byte:8	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/24/6520	Byte:8	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/25/6520	Byte:8	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/26/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/27/6520	Byte:8	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/28/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/29/6520	Byte:8	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/30/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/31/6520	Byte:8	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/32/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/33/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/34/6520	Byte:8	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/35/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/36/6520	Byte:8	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6221/1/6221/37/6520	Byte:6	Byte:7
+Transpose Map.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Transpose Map.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Treemonster.bwdevice	/6213/0/6212/6221/1/6221/3/6228	Byte:0	Byte:1
+Treemonster.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Treemonster.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+Tremolo.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Tuner.bwdevice	/6213/0/6212/6221/1/6520	Byte:6	Byte:7
+Tuner.bwdevice	/6213/0/6212/6221/3/6520	Byte:6	Byte:7
+Tuner.bwdevice	/6213/0/6212/6245	Byte:3	Byte:5
+Tuner.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+Tuner.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+Velocity Curve.bwdevice	/6213/0/6212/6221/3/6520	Byte:6	Byte:7
+Velocity Curve.bwdevice	/6213/0/6212/6221/4/6520	Byte:6	Byte:7
+Velocity Curve.bwdevice	/6213/0/6212/6221/5/6520	Byte:6	Byte:7
+Velocity Curve.bwdevice	/6213/0/6212/6522	Byte:6	Byte:7
+Velocity Curve.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+Vocoder.bwdevice	/6213/0/6212/6221/0/6221/1/6228	Byte:0	Byte:1
+Vocoder.bwdevice	/6213/0/6212/6221/0/6221/2/6221/4/6520	Byte:8	Byte:6
+Vocoder.bwdevice	/6213/0/6212/6221/0/6221/2/6221/5/6520	Byte:8	Byte:6
+Vocoder.bwdevice	/6213/0/6212/6221/0/6221/3/6221/0/6520	Byte:8	Byte:6
+Vocoder.bwdevice	/6213/0/6212/6221/0/6221/3/6221/1/6520	Byte:8	Byte:6
+Vocoder.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+Vocoder.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+XY FX.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+XY FX.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+XY FX.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+XY FX.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+XY Instrument.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+XY Instrument.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+XY Instrument.bwdevice	/6213/1/6212/6228	Byte:0	Byte:1
+XY Instrument.bwdevice	/6213/1/6212/6245	Byte:1	Byte:5
+v0 Cymbal.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:8	Byte:7
+v0 Cymbal.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v0 Cymbal.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v0 Hat.bwdevice	/6213/0/6212/6221/3/6221/3/6520	Byte:8	Byte:7
+v0 Hat.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v0 Hat.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v0 Kick.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+v0 Kick.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:8	Byte:7
+v0 Kick.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v0 Kick.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v0 Kick.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v0 Snare.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+v0 Snare.bwdevice	/6213/0/6212/6221/4/6221/2/6520	Byte:8	Byte:7
+v0 Snare.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v0 Snare.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v0 Snare.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+v0 Snare.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v0 Tom.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+v0 Tom.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:8	Byte:7
+v0 Tom.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v0 Tom.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v0 Zap Kick.bwdevice	/6213/0/6212/6221/0/6221/3/6520	Byte:8	Byte:7
+v0 Zap Kick.bwdevice	/6213/0/6212/6221/3/6221/1/6221/2/6520	Byte:8	Byte:7
+v0 Zap Kick.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v0 Zap Kick.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v0 Zap Kick.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+v0 Zap Kick.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v0 Zap Kick.bwdevice	/6213/2/6212/6228	Byte:0	Byte:1
+v0 Zap Kick.bwdevice	/6213/2/6212/6245	Byte:1	Byte:5
+v1 Clap.bwdevice	/6213/0/6212/6221/0/6522	Byte:6	Byte:7
+v1 Clap.bwdevice	/6213/0/6212/6221/1/6522	Byte:6	Byte:7
+v1 Clap.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v1 Clap.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v1 Cowbell.bwdevice	/6213/0/6212/6221/0/6522	Byte:6	Byte:7
+v1 Cowbell.bwdevice	/6213/0/6212/6221/3/6522	Byte:6	Byte:7
+v1 Cowbell.bwdevice	/6213/0/6212/6221/4/6522	Byte:6	Byte:7
+v1 Cowbell.bwdevice	/6213/0/6212/6221/5/6522	Byte:6	Byte:7
+v1 Cowbell.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v1 Cowbell.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v1 Hat.bwdevice	/6213/0/6212/6221/2/6221/4/6228	Byte:0	Byte:1
+v1 Hat.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v1 Hat.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v1 Kick.bwdevice	/6213/0/6212/6221/0/6522	Byte:6	Byte:7
+v1 Kick.bwdevice	/6213/0/6212/6221/1/6522	Byte:6	Byte:7
+v1 Kick.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v1 Kick.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v1 Snare.bwdevice	/6213/0/6212/6221/0/6522	Byte:6	Byte:7
+v1 Snare.bwdevice	/6213/0/6212/6221/1/6522	Byte:6	Byte:7
+v1 Snare.bwdevice	/6213/0/6212/6221/2/6522	Byte:6	Byte:7
+v1 Snare.bwdevice	/6213/0/6212/6221/3/6522	Byte:6	Byte:7
+v1 Snare.bwdevice	/6213/0/6212/6221/6/6522	Byte:6	Byte:7
+v1 Snare.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v1 Snare.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v1 Tom.bwdevice	/6213/0/6212/6221/0/6522	Byte:6	Byte:7
+v1 Tom.bwdevice	/6213/0/6212/6221/1/6522	Byte:6	Byte:7
+v1 Tom.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v1 Tom.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v8 Clap.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+v8 Clap.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:8	Byte:7
+v8 Clap.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v8 Clap.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v8 Claves.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+v8 Claves.bwdevice	/6213/0/6212/6221/2/6221/2/6520	Byte:8	Byte:7
+v8 Claves.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v8 Claves.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v8 Cowbell.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+v8 Cowbell.bwdevice	/6213/0/6212/6221/2/6221/2/6520	Byte:8	Byte:7
+v8 Cowbell.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v8 Cowbell.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v8 Cowbell.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v8 Cymbal.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+v8 Cymbal.bwdevice	/6213/0/6212/6221/3/6221/3/6520	Byte:8	Byte:7
+v8 Cymbal.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v8 Cymbal.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v8 Cymbal.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v8 Hat.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+v8 Hat.bwdevice	/6213/0/6212/6221/3/6221/3/6520	Byte:8	Byte:7
+v8 Hat.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v8 Hat.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v8 Hat.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v8 Kick.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+v8 Kick.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:8	Byte:7
+v8 Kick.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v8 Kick.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v8 Kick.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v8 Maracas.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+v8 Maracas.bwdevice	/6213/0/6212/6221/2/6221/2/6520	Byte:8	Byte:7
+v8 Maracas.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v8 Maracas.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v8 Rimshot.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+v8 Rimshot.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:8	Byte:7
+v8 Rimshot.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v8 Rimshot.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v8 Snare.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:8	Byte:7
+v8 Snare.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v8 Snare.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v8 Snare.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v8 Tom.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:8	Byte:7
+v8 Tom.bwdevice	/6213/0/6212/6221/4/6221/2/6520	Byte:8	Byte:7
+v8 Tom.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v8 Tom.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v8 Tom.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v9 Clap.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:7	Byte:6
+v9 Clap.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:7	Byte:6
+v9 Clap.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v9 Clap.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v9 Clap.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+v9 Clap.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v9 Crash.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:7	Byte:6
+v9 Crash.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v9 Crash.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v9 Crash.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+v9 Crash.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v9 Hat Closed.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:7	Byte:6
+v9 Hat Closed.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v9 Hat Closed.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v9 Hat Closed.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+v9 Hat Closed.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v9 Hat Open.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:7	Byte:6
+v9 Hat Open.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v9 Hat Open.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v9 Hat Open.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+v9 Hat Open.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v9 Kick.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:7	Byte:6
+v9 Kick.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:7	Byte:6
+v9 Kick.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v9 Kick.bwdevice	/6213/0/6212/6245	Byte:0	Byte:5
+v9 Kick.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v9 Ride.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:7	Byte:6
+v9 Ride.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v9 Ride.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v9 Ride.bwdevice	/6213/1/6212/6221/0/6520	Byte:6	Byte:7
+v9 Ride.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+v9 Rimshot.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:7	Byte:6
+v9 Rimshot.bwdevice	/6213/0/6212/6221/2/6221/2/6520	Byte:7	Byte:6
+v9 Rimshot.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v9 Rimshot.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v9 Snare.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:7	Byte:6
+v9 Snare.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v9 Snare.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v9 Tom.bwdevice	/6213/0/6212/6221/0/6221/0/6520	Byte:7	Byte:6
+v9 Tom.bwdevice	/6213/0/6212/6221/3/6221/2/6520	Byte:7	Byte:6
+v9 Tom.bwdevice	/6213/0/6212/6228	Byte:0	Byte:1
+v9 Tom.bwdevice	/6213/0/6212/6245	Byte:1	Byte:5
+v9 Tom.bwdevice	/6213/1/6212/6245	Byte:0	Byte:5
+EQ+.bwdevice	/6213/3/6212/6221/0/6221/0/6537	Byte:8	Byte:4
+Saturator.bwdevice	/6213/0/6212/6221/1/6221/8/6221/5/6518	Byte:8	Byte:7
+Saturator.bwdevice	/6213/0/6212/6221/1/6221/8/6221/6/6518	Byte:8	Byte:7
